@@ -4,6 +4,7 @@ The objective of this project is to analyze HR data using Power BI to provide va
 
 ## Questions
 1- How many people are in each job?
+
 2- Gender break-down of the staff
 3- Age spread of the staff
 4- Which job pay more?
